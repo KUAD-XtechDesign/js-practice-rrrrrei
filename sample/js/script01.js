@@ -1,6 +1,6 @@
 $(function(){
 
- $("button01").on("click",function()
+ $("＃button01").on("click",function()
  {$("box back-red").hide();})
 
  $("button02").on("click",function()
