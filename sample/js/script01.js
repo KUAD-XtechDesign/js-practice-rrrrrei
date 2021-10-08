@@ -5,7 +5,7 @@ $(function(){
        })
    
     　$("#button02").on("click",function(){
-        $("box back-blue").hide();
+        $(".back-blue").hide();
        })
    
     　$("#button03").on("click",function(){
@@ -13,7 +13,7 @@ $(function(){
        })
    
     　$("#button04").on("click",function(){
-        $("box").hide();
+        $(".box").show();
        })
    
-   })
+})
